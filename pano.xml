@@ -17,9 +17,9 @@
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label width="180" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" enabled="1" backgroundcolor="0xffffff" height="20" border="1" background="1" borderradius="1" wordwrap="1"/>
       <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="На улицу" url="{node2}" target="" description="" id="Point02" pan="-51.88" tilt="-0.58" skinid="ht_node"/>
-      <hotspot title="На лестницу" target="$fwd" description="" id="Point03" distance="0.621864" url="{node4}" pan="108.386" tilt="0" skinid="ht_node"/>
-      <hotspot title="К деканату" url="{node3}" target="" description="" id="Point04" pan="-173.4" tilt="8.43" skinid="ht_node"/>
+      <hotspot title="На улицу" url="{node2}" target="" description="" id="Point02" pan="-267.2" tilt="-23.74" skinid="ht_node"/>
+      <hotspot title="На лестницу" target="$fwd" description="" id="Point03" distance="0.621864" url="{node4}" pan="193.526" tilt="-8.56" skinid="ht_node"/>
+      <hotspot title="К деканату" url="{node3}" target="" description="" id="Point04" pan="-173.84" tilt="10.91" skinid="ht_node"/>
       <polyhotspot title="В коридор (Видео)" url="https://www.youtube.com/watch?v=lcRMqWwc2IU" target="_blank" description="" id="Poly01">
         <polystring>-15.72/-4.71|-15.74/14.85|-25.72/15.13|-25.05/-5.77</polystring>
       </polyhotspot>
@@ -50,9 +50,9 @@
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label width="180" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" enabled="1" backgroundcolor="0xffffff" height="20" border="1" background="1" borderradius="1" wordwrap="1"/>
       <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" url="{node3}" target="" description="" id="Point01" pan="-69.6" tilt="13.92" skinid="ht_node"/>
-      <hotspot title="" url="{node4}" target="" description="" id="Point02" pan="-41.51" tilt="13.97" skinid="ht_node"/>
-      <hotspot title="" url="{node1}" target="" description="" id="Point03" pan="-17.34" tilt="10.59" skinid="ht_node"/>
+      <hotspot title="К деканату" url="{node3}" target="" description="" id="Point01" pan="-69.6" tilt="13.92" skinid="ht_node"/>
+      <hotspot title="На лестницу" url="{node4}" target="" description="" id="Point02" pan="-27.75" tilt="10.23" skinid="ht_node"/>
+      <hotspot title="В аудиторию" url="{node1}" target="" description="" id="Point03" pan="-17.34" tilt="10.59" skinid="ht_node"/>
     </hotspots>
     <media>
       <sound field="90.000" nodechangekeep="1" pansize="10.000" id="_background" ambientlevel="0.000" startmutedmobile="0" mode="0" loop="0" level="1.000" pan="-1.000" tilt="-1.000" tiltsize="10.000">
@@ -80,9 +80,9 @@
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label width="180" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" enabled="1" backgroundcolor="0xffffff" height="20" border="1" background="1" borderradius="1" wordwrap="1"/>
       <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" url="{node2}" target="" description="" id="Point01" pan="-80.42" tilt="-23.3" skinid="ht_node"/>
-      <hotspot title="" url="{node4}" target="" description="" id="Point02" pan="-168.47" tilt="-0.83" skinid="ht_node"/>
-      <hotspot title="" url="{node1}" target="" description="" id="Point03" pan="-161.32" tilt="-10.9" skinid="ht_node"/>
+      <hotspot title="На улицу" url="{node2}" target="" description="" id="Point01" pan="-62.1" tilt="-17.69" skinid="ht_node"/>
+      <hotspot title="На лестницу" url="{node4}" target="" description="" id="Point02" pan="-170.48" tilt="-6.33" skinid="ht_node"/>
+      <hotspot title="В аудиторию" url="{node1}" target="" description="" id="Point03" pan="-159.3" tilt="-4.84" skinid="ht_node"/>
     </hotspots>
     <media>
       <sound field="90.000" nodechangekeep="1" pansize="10.000" id="_background" ambientlevel="0.000" startmutedmobile="0" mode="0" loop="0" level="1.000" pan="-1.000" tilt="-1.000" tiltsize="10.000">
@@ -110,9 +110,9 @@
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label width="180" textcolor="0x000000" textalpha="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" enabled="1" backgroundcolor="0xffffff" height="20" border="1" background="1" borderradius="1" wordwrap="1"/>
       <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" target="$fwd" description="" id="Point01" distance="0.621864" url="{node1}" pan="468.386" tilt="0" skinid="ht_node"/>
-      <hotspot title="" url="{node2}" target="" description="" id="Point02" pan="-134.11" tilt="-7.79" skinid="ht_node"/>
-      <hotspot title="" url="{node3}" target="" description="" id="Point03" pan="-58.08" tilt="20.46" skinid="ht_node"/>
+      <hotspot title="В аудиторию" target="$fwd" description="" id="Point01" distance="0.621864" url="{node1}" pan="468.386" tilt="0" skinid="ht_node"/>
+      <hotspot title="На улицу" url="{node2}" target="" description="" id="Point02" pan="-134.11" tilt="-7.79" skinid="ht_node"/>
+      <hotspot title="К деканату" url="{node3}" target="" description="" id="Point03" pan="-57.72" tilt="18.16" skinid="ht_node"/>
     </hotspots>
     <media>
       <sound field="90.000" nodechangekeep="1" pansize="10.000" id="_background" ambientlevel="0.000" startmutedmobile="0" mode="0" loop="0" level="1.000" pan="-1.000" tilt="-1.000" tiltsize="10.000">
